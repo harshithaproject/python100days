@@ -2,7 +2,7 @@
 Basic Python Coding for consistently 100 days 
 
 
-What is Python?
+**What is Python?**
 
 Python is a dynamically typed, general purpose programming language that supports an object-oriented programming approach as well as a functional programming approach
 
@@ -23,7 +23,7 @@ Python provides very big library support.Some of the popular libraries include N
 It is possible to integrate other programming languages within python.
 
 
-What is python used for?
+**What is python used for?**
 1. Python is used in Data Visualization to create plots and graphical representations,
 
 2. Python helps in Data Analytics to analyze and understand raw data for insights and trends.
